@@ -13,6 +13,6 @@ def link
 end
 
 def all_phrases
-  all_phrases = /"It's-a me, Mario!"n/"Thank You Mario! But Our Princess Is In Another Castle!"n/"It's Dangerous To Go Alone! Take This."
+  all_phrases = "It's-a me, Mario!\nThank You Mario! But Our Princess Is In Another Castle!\n It's Dangerous To Go Alone! Take This."
   puts all_phrases
 end
